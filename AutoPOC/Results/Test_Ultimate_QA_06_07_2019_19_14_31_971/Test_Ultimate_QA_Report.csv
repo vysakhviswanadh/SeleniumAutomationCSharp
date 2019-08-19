@@ -1,0 +1,2 @@
+Step No,Scenario,Expected Result,Actual Result,Status
+1,Automation Exercises page load,Page should be loaded,Page loaded,Pass

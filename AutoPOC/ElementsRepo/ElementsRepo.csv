@@ -1,0 +1,3 @@
+No,ScreenName,ElementName,ElementType,ElementIdentifier
+1,Home Page,link_automationExercises,LinkText,Automation Exercises
+2,Automation Exercises,header_Automation,Xpath,//h1[@class='et_pb_module_header']
